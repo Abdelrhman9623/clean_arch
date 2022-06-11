@@ -1,0 +1,13 @@
+-> dir - config
+    - routes
+    - notification
+    - dynamicLinks
+    - subDir -> constants
+        - keys prefs
+        - keys services
+-> dir - functions
+    - date helper convert
+    - number formats
+    - validation handler
+-> dir - features
+    - app business
